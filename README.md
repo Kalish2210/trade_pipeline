@@ -90,3 +90,7 @@ Python
 PostgreSQL
 Pandas (if used in ingestion)
 psycopg2
+<img width="1919" height="1079" alt="Screenshot 2026-04-20 050837" src="https://github.com/user-attachments/assets/f04a1184-131c-4630-9f56-c015f995cb0d" />
+<img width="1919" height="1025" alt="Screenshot 2026-04-20 050753" src="https://github.com/user-attachments/assets/538a97ee-644a-47eb-b6e8-7f5a9043a772" />
+<img width="1333" height="954" alt="Screenshot 2026-04-20 014236" src="https://github.com/user-attachments/assets/18ac8e02-d0f8-4779-9091-3e6a3496a6b2" />
+
