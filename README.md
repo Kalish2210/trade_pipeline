@@ -13,6 +13,7 @@ A modular Python-based data pipeline for processing trade data from raw CSV file
 ---
 <img width="1359" height="765" alt="Screenshot 2026-04-20 050058" src="https://github.com/user-attachments/assets/de48ed20-eb6d-4bcc-8c03-b06be93e4d38" />
 ---
+
 ## 🚀 Project Overview
 
 This project processes financial trade data through a structured ETL pipeline:
