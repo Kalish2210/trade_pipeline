@@ -1,3 +1,7 @@
+<img width="1359" height="726" alt="Screenshot 2026-04-20 050135" src="https://github.com/user-attachments/assets/adf986c5-9a45-4dd9-9368-3eede8445a02" />
+<img width="1359" height="767" alt="Screenshot 2026-04-20 050125" src="https://github.com/user-attachments/assets/3fa3d8f4-34c5-4782-ae72-ae60649efdb1" />
+<img width="1355" height="593" alt="Screenshot 2026-04-20 050113" src="https://github.com/user-attachments/assets/975c16f9-5419-4e4f-9562-de76e942f8ad" />
+<img width="1359" height="765" alt="Screenshot 2026-04-20 050058" src="https://github.com/user-attachments/assets/de48ed20-eb6d-4bcc-8c03-b06be93e4d38" />
 # 📊 Data Pipeline Project
 
 A modular Python-based data pipeline for processing trade data from raw CSV files into a validated and cleaned dataset stored in PostgreSQL.
