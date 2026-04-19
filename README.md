@@ -13,6 +13,10 @@ A modular Python-based data pipeline for processing trade data from raw CSV file
 ---
 <img width="1359" height="765" alt="Screenshot 2026-04-20 050058" src="https://github.com/user-attachments/assets/de48ed20-eb6d-4bcc-8c03-b06be93e4d38" />
 ---
+<img width="1919" height="1079" alt="Screenshot 2026-04-20 050837" src="https://github.com/user-attachments/assets/2420e768-0e31-4908-bd4b-6a6fa6ac0082" />
+---
+<img width="1919" height="1025" alt="Screenshot 2026-04-20 050753" src="https://github.com/user-attachments/assets/58e5751e-00d1-4cd0-a7d0-3e182c24c915" />
+---
 
 ## 🚀 Project Overview
 
@@ -96,7 +100,5 @@ Python
 PostgreSQL
 Pandas (if used in ingestion)
 psycopg2
-<img width="1919" height="1079" alt="Screenshot 2026-04-20 050837" src="https://github.com/user-attachments/assets/f04a1184-131c-4630-9f56-c015f995cb0d" />
-<img width="1919" height="1025" alt="Screenshot 2026-04-20 050753" src="https://github.com/user-attachments/assets/538a97ee-644a-47eb-b6e8-7f5a9043a772" />
-<img width="1333" height="954" alt="Screenshot 2026-04-20 014236" src="https://github.com/user-attachments/assets/18ac8e02-d0f8-4779-9091-3e6a3496a6b2" />
+
 
